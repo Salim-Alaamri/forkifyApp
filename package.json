@@ -1,0 +1,30 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "keywords": [
+    "Recipe",
+    "application"
+  ],
+  "homepage": "https://github.com/Salim-Alaamri/forkifyApp#readme",
+  "bugs": {
+    "url": "https://github.com/Salim-Alaamri/forkifyApp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salim-Alaamri/forkifyApp.git"
+  },
+  "license": "ISC",
+  "author": "Salim Alaamri",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.94.0",
+    "vite": "^5.0.0"
+  }
+}
